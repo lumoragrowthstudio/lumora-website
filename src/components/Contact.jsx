@@ -49,7 +49,7 @@ export default function Contact() {
     <section className="contact section-pad" id="contact">
       <div className="contact-intro">
         <div className="section-kicker">
-          06 <span>—</span> Start a conversation
+           <span>—</span> Start a conversation
         </div>
 
         <h2>
@@ -62,7 +62,9 @@ export default function Contact() {
           Tell us what you&apos;re working on.
           <br />
           Let&apos;s figure out the right digital solution.
-        </p>
+          <br /></p>
+          <p1 background="dark">E-mail Us : lumoragrowthstudio@gmail.com</p1>
+        
       </div>
 
       <form onSubmit={handleSubmit}>
@@ -165,6 +167,7 @@ export default function Contact() {
         >
           Chat with us <Arrow />
         </a>
+        
       </div>
     </section>
   )

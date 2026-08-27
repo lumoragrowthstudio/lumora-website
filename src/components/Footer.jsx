@@ -13,8 +13,8 @@ export default function Footer() {
         <a href="#services">Services</a>
         <a href="#about">About</a>
         <a href="#contact">Contact</a>
-        <a href="#">Instagram</a>
-        <a href="#">LinkedIn</a>
+        <a href="https://www.instagram.com/lumoragrowthstudio/">Instagram</a>
+        <a href="https://www.linkedin.com/in/lumoragrowthstudio/">LinkedIn</a>
       </div>
       <div className="footer-bottom">
         <span>© 2026 LUMORA. All rights reserved.</span>

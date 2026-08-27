@@ -170,7 +170,7 @@ export default function Services() {
     <section className="services section-pad" id="services">
       <div className="section-heading">
         <div className="section-kicker">
-          02 <span>—</span> What we do
+           <span>—</span> What we do
         </div>
         <h2>
           Three essentials.
